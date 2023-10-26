@@ -1,6 +1,20 @@
 # BRITE_Tutorial
 (English below)
 
+Ce tutoriel a été créé pour aider les utilisateurs à exploiter les données ouvertes des courbes de lumière de la mission de la Constellation BRITE. 
+Les utilisateurs apprendront à télécharger et à traiter les données trouvées dans les archives publiques de courbes de lumière, puis à effectuer diverses analyses. 
+L'accent porte sur la découverte potentielle d'exoplanètes. 
+Pour plus d'informations sur les données et la mission :
+CSA - https://donnees-data.asc-csa.gc.ca/en/dataset/38804261-6p9g-5g8r-622yqwm106ks22
+De l'équipe BRITE - https://brite-constellation.at/
+
+#### Remerciements
+Basé sur les données collectées par la mission du satellite BRITE Constellation, 
+conçu, construit, lancé, exploité et soutenu par l'Agence autrichienne de promotion de la recherche (FFG), 
+l'Université de Vienne, l'Université technique de Graz, l'Agence spatiale canadienne (ASC), 
+l'Institut d'études aérospatiales de l'Université de Toronto (UTIAS), 
+la Fondation pour la science et la technologie polonaise (FNiTP MNiSW) et le Centre national des sciences (NCN).
+
 ---
 (Le français précède) 
 
