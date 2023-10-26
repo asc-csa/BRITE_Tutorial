@@ -5,7 +5,7 @@ Ce tutoriel a été créé pour aider les utilisateurs à exploiter les données
 Les utilisateurs apprendront à télécharger et à traiter les données trouvées dans les archives publiques de courbes de lumière, puis à effectuer diverses analyses. 
 L'accent porte sur la découverte potentielle d'exoplanètes. 
 Pour plus d'informations sur les données et la mission : \
-CSA - https://donnees-data.asc-csa.gc.ca/en/dataset/38804261-6p9g-5g8r-622yqwm106ks22 \
+CSA - https://www.asc-csa.gc.ca/eng/satellites/brite/ \
 De l'équipe BRITE - https://brite-constellation.at/
 
 #### Remerciements
@@ -19,7 +19,7 @@ la Fondation pour la science et la technologie polonaise (FNiTP MNiSW) et le Cen
 (Le français précède) 
 
 This tutorial has been created to help users make use of the open lightcurve data from the BRITE Constellation Mission. Users will learn how to download and process data found in the public lightcurve archive and then conduct various analyses, the focus being potential exoplanet discovery. For more information about the data and the mission: \
-CSA -  https://donnees-data.asc-csa.gc.ca/en/dataset/38804261-6p9g-5g8r-622yqwm106ks22 \
+CSA -  https://www.asc-csa.gc.ca/eng/satellites/brite/ \
 From the BRITE Team - https://brite-constellation.at/
 
 #### Acknowledgements
