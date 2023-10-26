@@ -1,8 +1,6 @@
 # BRITE_Tutorial
 
-<p align = "center" width =100%>
- <img width = 100% src = "https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451">
-</p>
+![BRITE-CA](https://github.com/asc-csa/BRITE_Tutorial/assets/137192482/6dd5e4c1-0fcd-4590-881e-81d3abdd6495)
 
 Credit: UTIS Space Flight Laboratory
 
