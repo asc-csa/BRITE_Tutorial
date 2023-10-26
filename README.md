@@ -1,4 +1,8 @@
 # BRITE_Tutorial
+
+![alt text](https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451)
+Credit: UTIS Space Flight Laboratory
+
 (English below)
 
 Ce tutoriel a été créé pour aider les utilisateurs à exploiter les données ouvertes des courbes de lumière de la mission de la Constellation BRITE. 
