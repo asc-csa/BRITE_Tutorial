@@ -1,6 +1,6 @@
 # BRITE_Tutorial
 
-![BRITE-CA](https://github.com/asc-csa/BRITE_Tutorial/assets/137192482/9528e139-bc74-4faf-88d7-da3b43883f1d)
+![BRITE-CA](https://github.com/asc-csa/BRITE_Tutorial/assets/137192482/9528e139-bc74-4faf-88d7-da3b43883f1d) \
 Credit: UTIS Space Flight Laboratory
 
 (English below)
