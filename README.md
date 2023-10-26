@@ -1,8 +1,8 @@
 # BRITE_Tutorial
 
-![BRITE-CA](https://github.com/asc-csa/BRITE_Tutorial/assets/137192482/6dd5e4c1-0fcd-4590-881e-81d3abdd6495)
+![BRITE-CSA Photo](https://github.com/asc-csa/BRITE_Tutorial/assets/137192482/82eac988-4883-4fba-b39b-e1affa6aedff)
 
-Credit: UTIS Space Flight Laboratory
+Credit: UTIAS Space Flight Laboratory
 
 (English below)
 
