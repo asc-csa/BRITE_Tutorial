@@ -1,6 +1,6 @@
 # BRITE_Tutorial
 
-![alt text](https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451)
+[alt text](https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451)
 Credit: UTIS Space Flight Laboratory
 
 (English below)
