@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.asc-csa.gc.ca/eng/satellites/brite/">
-        <img alt="Image du BRITE | Image of BRITE" src="https://www.asc-csa.gc.ca/images/recherche/hi-res/076c3dc0-3162-4aea-ae20-90fe768ab80a.jpg" height="300">
+        <img alt="Image du BRITE | Image of BRITE" src="https://www.asc-csa.gc.ca/images/recherche/hi-res/076c3dc0-3162-4aea-ae20-90fe768ab80a.jpg" height="500">
         </a>
 </p>
 
