@@ -1,6 +1,28 @@
 # BRITE_Tutorial
 
-![BRITE-CSA Photo](https://github.com/asc-csa/BRITE_Tutorial/assets/137192482/82eac988-4883-4fba-b39b-e1affa6aedff)
+p align="center">
+    <a href="https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451">
+        <img alt="Image du BRITE | Image of BRTITE" src="https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451" height="300">
+        </a>
+</p>
+
+<p align="center">
+    <a href="#stars">
+        <img alt="Étoiles sur GitHub | GitHub Repo stars" src="https://img.shields.io/github/stars/asc-csa/BRITE_Tutorial">
+    </a>
+    <a href="#watchers">
+        <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/BRITE_Tutorial">
+    </a>
+    <a href="https://github.com/asc-csa/BRITE_Tutorial/commits/main">
+        <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/BRITE_Tutorial">
+    </a>
+    <a href="https://github.com/asc-csa/BRITE_Tutorial/graphs/contributors">
+        <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/BRITE_Tutorial">
+    </a>
+    <a href="https://twitter.com/intent/follow?screen_name=csa_asc">
+        <img alt="Suivre sur Twitter | Twitter Follow" src="https://img.shields.io/twitter/follow/csa_asc?style=social">
+    </a>
+</p>
 
 Credit: UTIAS Space Flight Laboratory
 
