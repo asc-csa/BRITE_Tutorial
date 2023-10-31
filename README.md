@@ -1,6 +1,6 @@
 # BRITE_Tutorial
 
-p align="center">
+<p align="center">
     <a href="https://www.asc-csa.gc.ca/eng/satellites/brite/">
         <img alt="Image du BRITE | Image of BRTITE" src="https://www.asc-csa.gc.ca/eng/multimedia/search/image/5451" height="300">
         </a>
