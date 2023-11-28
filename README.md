@@ -45,7 +45,7 @@ python = 3.9.18
 2. Installer les conditions requises à partir du fichier requirments.txt
 ```
 pip install -r requirements.txt
-
+```
 
 #### Remerciements
 Basé sur les données collectées par la mission du satellite BRITE Constellation, 
@@ -71,6 +71,7 @@ python = 3.9.18
 2.  Install requirements from the requirments.txt file 
 ```
 pip install -r requirements.txt
+```
 
 #### Acknowledgements
 Based on data collected by the BRITE Constellation satellite mission, designed, built, launched, operated and supported by the Austrian Research Promotion Agency (FFG), the University of Vienna, the Technical University of Graz, the Canadian Space Agency (CSA), the University of Toronto Institute for Aerospace Studies (UTIAS), the Foundation for Polish Science & Technology (FNiTP MNiSW), and National Science Centre (NCN).
