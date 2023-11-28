@@ -35,6 +35,18 @@ Pour plus d'informations sur les données et la mission : \
 CSA - https://www.asc-csa.gc.ca/eng/satellites/brite/ \
 De l'équipe BRITE - https://brite-constellation.at/
 
+
+## Démarrage rapide
+
+1.	Configurez un environnement virtuel ou un environnement conda avec la version suivante de python (si vous utilisez conda, remplacez le pip install ci-dessous avec conda) 
+```
+python = 3.9.18
+```
+2. Installer les conditions requises à partir du fichier requirments.txt
+```
+pip install -r requirements.txt
+
+
 #### Remerciements
 Basé sur les données collectées par la mission du satellite BRITE Constellation, 
 conçu, construit, lancé, exploité et soutenu par l'Agence autrichienne de promotion de la recherche (FFG), 
@@ -42,12 +54,23 @@ l'Université de Vienne, l'Université technique de Graz, l'Agence spatiale cana
 l'Institut d'études aérospatiales de l'Université de Toronto (UTIAS), 
 la Fondation pour la science et la technologie polonaise (FNiTP MNiSW) et le Centre national des sciences (NCN).
 
+
 ---
 (Le français précède) 
 
 This tutorial has been created to help users make use of the open lightcurve data from the BRITE Constellation Mission. Users will learn how to download and process data found in the public lightcurve archive and then conduct various analyses, the focus being potential exoplanet discovery. For more information about the data and the mission: \
 CSA -  https://www.asc-csa.gc.ca/eng/satellites/brite/ \
 From the BRITE Team - https://brite-constellation.at/
+
+## Quick Start
+
+1.	Setup a virtual environment or conda environment with the following version of python (if using conda replace the below pip install with conda) 
+```
+python = 3.9.18
+```
+2.  Install requirements from the requirments.txt file 
+```
+pip install -r requirements.txt
 
 #### Acknowledgements
 Based on data collected by the BRITE Constellation satellite mission, designed, built, launched, operated and supported by the Austrian Research Promotion Agency (FFG), the University of Vienna, the Technical University of Graz, the Canadian Space Agency (CSA), the University of Toronto Institute for Aerospace Studies (UTIAS), the Foundation for Polish Science & Technology (FNiTP MNiSW), and National Science Centre (NCN).
