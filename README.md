@@ -32,7 +32,7 @@ Ce tutoriel a été créé pour aider les utilisateurs à exploiter les données
 Les utilisateurs apprendront à télécharger et à traiter les données trouvées dans les archives publiques de courbes de lumière, puis à effectuer diverses analyses. 
 L'accent porte sur la découverte potentielle d'exoplanètes. 
 Pour plus d'informations sur les données et la mission : \
-CSA - https://www.asc-csa.gc.ca/eng/satellites/brite/ \
+CSA - https://www.asc-csa.gc.ca/fra/satellites/brite/ \
 De l'équipe BRITE - https://brite-constellation.at/
 
 
